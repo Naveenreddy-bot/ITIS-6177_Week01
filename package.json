@@ -1,0 +1,20 @@
+{
+  "name": "itis-6177_week01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "NodeJSHelloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naveenreddy-bot/ITIS-6177_Week01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naveenreddy-bot/ITIS-6177_Week01/issues"
+  },
+  "homepage": "https://github.com/Naveenreddy-bot/ITIS-6177_Week01#readme"
+}
